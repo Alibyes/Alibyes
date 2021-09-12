@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alibyes
+- 👀 I’m interested in programming and graphic design.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me @WeyDev.
